@@ -1,0 +1,36 @@
+C:\Users\HOME\Desktop\Igrica\Game\Game\bin\Debug\Game.exe.config
+C:\Users\HOME\Desktop\Igrica\Game\Game\bin\Debug\Game.exe
+C:\Users\HOME\Desktop\Igrica\Game\Game\bin\Debug\Game.pdb
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.exe
+C:\Users\HOME\Desktop\Igrica\Game\Game\obj\Debug\Game.pdb
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\Game.exe.config
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\Game.exe
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\Game.pdb
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.exe
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.pdb
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.frmPocetna.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.frmZavrsna.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.Form2.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\EntityFramework.dll
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\System.Data.SQLite.dll
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\EntityFramework.xml
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\System.Data.SQLite.xml
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.frmProfil.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.frmPrijava.resources
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\bin\Debug\DLWMS.db
+C:\Users\HOME\Desktop\New folder\Amir\Igrica\Game\Game\obj\Debug\Game.frmRanking.resources
