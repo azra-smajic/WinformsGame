@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Linq;
+using System.Numerics;
 using System.Threading;
 
 using System.Windows.Forms;
@@ -40,6 +41,10 @@ namespace Game
             lblPlayer.Text = PlayerName;
             lblBodovi.Text = bodovi.ToString();
             pbBodovi.Value = bodoviZaIgru;
+           
+           
+           
+          
         }
 
         private void Form1_MouseMove(object sender, MouseEventArgs e)
@@ -178,6 +183,8 @@ namespace Game
             t1.Start();
             t2.Start();
             t3.Start();
+        
+           
 
 
 
